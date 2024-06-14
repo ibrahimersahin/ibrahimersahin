@@ -1,8 +1,6 @@
 ### Hi 👋, I am Ibrahim Ersahin
 
 
-**ibrahimersahin/ibrahimersahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # React Mobile Developer(React Native)
 
 Hello! I'm Ibrahim, a passionate software developer focused on mobile application development. My goal is to create user-friendly, high-performance, cross-platform mobile applications using React Native.
@@ -13,22 +11,22 @@ Cross-Platform Development: To develop applications that perform excellently on 
 Open Source Contributions: To contribute to React Native and other related projects, supporting the community.
 UI/UX Excellence: To create aesthetic and functional interfaces with a strong focus on user experience.
 
-🌱 I’m in research to
+-🌱 I’m in research to
 Learn more about advanced React Native techniques and best practices.
 Explore the latest trends in mobile app development and cross-platform solutions.
-👯 I’m looking to collaborate on
+-👯 I’m looking to collaborate on
 Open source projects related to React Native.
 Innovative mobile applications that solve real-world problems.
-🤔 I’m looking for help with
+-🤔 I’m looking for help with
 Deepening my knowledge in advanced React Native and JavaScript.
 Gaining insights into UI/UX design principles for mobile applications.
-💬 Ask me about
+-💬 Ask me about
 Anything related to React Native and mobile application development.
 JavaScript and TypeScript.
 My experiences in building cross-platform applications.
-📫 How to reach me
+-📫 How to reach me
 Email: ibrahimersahinit@gmail.com
-⚡ Fun fact
+-⚡ Fun fact
 I enjoy exploring new technologies and frameworks in my free time.
 
 <h3 align="left">Languages and Tools:</h3>
